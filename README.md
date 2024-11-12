@@ -1,5 +1,5 @@
 
-# 🌈 NanoNews - Your AI-Powered News Hub 📲
+# 📰 NanoNews - Your AI-Powered News Hub 📲
 
 **Bringing you a world of news, personalized to your interests with AI!** NanoNews uses **Gemini Nano** to intelligently summarize articles and tailor recommendations just for you. Get ready for a news experience like never before!
 
