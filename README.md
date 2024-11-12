@@ -84,10 +84,6 @@ Accessibility: Ensure the application is accessible to users with disabilities.
 4. **Contributing:** 
 Contributions to this project are welcome. Please feel free to fork the repository and submit pull requests.
 
-License:
+**License:**
 
-This project is licensed under the MIT License.   
-
-
-Sources and related content
-
+This project is licensed under the MIT License.
