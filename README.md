@@ -38,7 +38,7 @@ _Our AI learns from your interactions, making your feed smarter with every click
 
 1. **Clone the Repo:**
    ```bash
-   git clone <Your Repo URL Here>
+   git clone https://github.com/AspiringPianist/NanoNews.git
    ```
 2. **Load as Unpacked Extension:**
    - Open your browser, go to `chrome://extensions/`.
