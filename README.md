@@ -114,4 +114,4 @@ MIT License. Your code, your terms!
 
 ---
 
-### 🌈 Make the world your newsroom with **NanoNews**! 🎉
+### Search only for what you want to know with **NanoNews**! 🎉
